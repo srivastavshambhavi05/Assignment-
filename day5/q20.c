@@ -31,5 +31,5 @@ if(n>2)
 }
 printf("The largest prime factor of %d is &d\n" ,originalnum, max_prime);
 return 0;
-}
+
 
